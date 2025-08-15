@@ -1,0 +1,97 @@
+2025-08-14 16:28:00 | INFO | === New run ===
+2025-08-14 16:28:00 | INFO | Processing: iLegis/Batch 8/8_2023_3.html
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640252
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640252): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640251
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640251): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640250
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640250): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640249
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640249): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640248
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640248): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640252
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640252): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640251
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640251): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640250
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640250): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640249
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640249): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640248
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640248): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640252): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640251): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640250): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640249): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640248): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_3.html -> azarbusiness-s.r.l..8640262..json
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_3.html -> darulasilk-s.r.l..8640261..json
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_3.html -> mezimcorporation-s.r.l..8640260..json
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_3.html -> evelynmagicstore-s.r.l..8640259..json
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_3.html -> miamarmania-s.r.l..8640258..json
+2025-08-14 16:28:00 | INFO | Processing: iLegis/Batch 8/13_2023_11.html
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640562
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640562): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640561
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640561): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640560
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640560): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640559
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640559): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640558
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640558): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640562
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640562): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640561
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640561): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640560
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640560): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640559
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640559): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640558
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640558): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640562): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640561): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640560): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640559): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640558): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | INFO | [modal_article] 13_2023_11.html -> enakompletesolutions-s.r.l..8640612..json
+2025-08-14 16:28:00 | INFO | [modal_article] 13_2023_11.html -> enakompletesolutions-s.r.l..8640611..json
+2025-08-14 16:28:00 | INFO | [modal_article] 13_2023_11.html -> cochetfood-s.r.l..8640610..json
+2025-08-14 16:28:00 | INFO | [modal_article] 13_2023_11.html -> cochetfood-s.r.l..8640609..json
+2025-08-14 16:28:00 | INFO | [modal_article] 13_2023_11.html -> mihniccomimpex-s.r.l..8640608..json
+2025-08-14 16:28:00 | INFO | Processing: iLegis/Batch 8/8_2023_4.html
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640247
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640247): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640246
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640246): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640245
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640245): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640244
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640244): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640243
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640243): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640247
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640247): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640246
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640246): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640245
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640245): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640244
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640244): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | WARNING | No bulletin_id (listaarticole_XXXX) found for articol8640243
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640243): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640247): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640246): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640245): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640244): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | ERROR | write_article_error(articol8640243): BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_4.html -> azarbusiness-s.r.l..8640262..json
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_4.html -> darulasilk-s.r.l..8640261..json
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_4.html -> mezimcorporation-s.r.l..8640260..json
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_4.html -> evelynmagicstore-s.r.l..8640259..json
+2025-08-14 16:28:00 | INFO | [modal_article] 8_2023_4.html -> miamarmania-s.r.l..8640258..json
+2025-08-14 16:28:00 | INFO | Done. JSON in: /Users/mariuspap/Downloads/MoFIV_Task/iLegis/Batch_8_parsate
+2025-08-14 16:28:00 | INFO | Log:  /Users/mariuspap/Downloads/MoFIV_Task/extract.log
+2025-08-14 16:28:00 | INFO | Report: /Users/mariuspap/Downloads/MoFIV_Task/run_report.json

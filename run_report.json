@@ -1,0 +1,31 @@
+{
+  "total_files": 3,
+  "processed": 3,
+  "files": [
+    {
+      "file": "8_2023_3.html",
+      "articles": 15,
+      "modals": 1,
+      "modal_articles": 0,
+      "errors": []
+    },
+    {
+      "file": "13_2023_11.html",
+      "articles": 15,
+      "modals": 1,
+      "modal_articles": 0,
+      "errors": []
+    },
+    {
+      "file": "8_2023_4.html",
+      "articles": 15,
+      "modals": 1,
+      "modal_articles": 0,
+      "errors": []
+    }
+  ],
+  "total_articles": 45,
+  "total_modals": 3,
+  "total_modal_articles": 0,
+  "total_errors": 0
+}

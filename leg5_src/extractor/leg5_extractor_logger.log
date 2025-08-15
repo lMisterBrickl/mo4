@@ -1,0 +1,17 @@
+2025-08-14 14:36:24 [INFO] ../leg5/Batch_8/g4ytkmrvga3q.html: 59 segment(s)
+2025-08-14 14:36:24 [INFO] Done. files=1, segments=59, outdir=../leg5/extracted
+2025-08-14 14:56:18 [INFO] ../leg5/Batch_8/g4ytkmrvga3q.html: 59 segment(s)
+2025-08-14 14:56:18 [INFO] Done. files=1, segments=59, outdir=../leg5/extracted
+2025-08-14 15:12:17 [INFO] ../leg5/Batch_8/g4ytkmrvga3q.html: 59 segment(s)
+2025-08-14 15:12:17 [INFO] Done. files=1, segments=59, outdir=../leg5/extracted
+2025-08-14 15:34:13 [INFO] ../leg5/Batch_8/g4ytkmrvga3q.html: 59 segment(s)
+2025-08-14 15:36:47 [INFO] ../leg5/Batch_8/g4ytkmrvga3q.html: 59 segment(s)
+2025-08-14 15:38:22 [INFO] ../leg5/Batch_8/g4ytkmrvga3q.html: 59 segment(s)
+2025-08-14 15:38:22 [ERROR] Error on ../leg5/Batch_8/g4ytkmrvga3q.html: 'Entry' object has no attribute 'entry_number'
+Traceback (most recent call last):
+  File "/Users/mariuspap/Downloads/MoFIV_Task/leg5_src/extractor/extractor_2.py", line 204, in main
+    nr = entry.entry_number or "nr"
+         ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Entry' object has no attribute 'entry_number'
